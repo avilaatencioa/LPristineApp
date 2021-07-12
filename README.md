@@ -1,0 +1,2 @@
+# LPristineApp
+Leyenda Libro Pristine
