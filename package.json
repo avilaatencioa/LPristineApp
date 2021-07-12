@@ -1,0 +1,28 @@
+{
+  "name": "lpristineapp",
+  "version": "1.0.0",
+  "description": "Leyenda Libro Pristine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avilaatencioa/LPristineApp.git"
+  },
+  "keywords": [
+    "Trading",
+    "Stocks",
+    "SmarTTraders"
+  ],
+  "author": "Adrian Avila Atencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avilaatencioa/LPristineApp/issues"
+  },
+  "homepage": "https://github.com/avilaatencioa/LPristineApp#readme",
+  "dependencies": {
+    "pushstate-server": "^3.1.0"
+  }
+}
